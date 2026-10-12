@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+# données personnelles brutes (GPS, exports Strava/Garmin) : ne jamais les publier
+data/raw/
